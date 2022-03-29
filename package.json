@@ -1,7 +1,7 @@
 {
   "name": "adonisjs-okrang",
   "version": "0.0.1",
-  "description": "An addon/plugin package to provide OkraHQ automated KYC services in AdonisJS 4.1+",
+  "description": "An addon/plugin package to provide financial transaction, income and spending pattern services in AdonisJS 4.0+",
   "main": "index.js",
   "files": [
     "src",
